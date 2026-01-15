@@ -1,0 +1,24 @@
+{
+  "questionList": [
+    {
+      "soruMetni": "Antik Roma'da, 'Pullarius' adı verilen kişi, kehanetlerini tam olarak neyi gözlemleyerek yapardı?",
+      "gercekCevap": "Kutsal tavukların yem yeme şekillerini.",
+      "sahteCevap1": "Kutsal ateşin dumanının yönünü.",
+      "sahteCevap2": "Yeni doğan bebeklerin ilk ağlamalarını."
+    },
+    {
+      "soruMetni": "'Kintsugi' hangi ülkeye ait olan ve kırılan objeleri altınla birleştirme sanatıdır?",
+      "gercekCevap": "Japonya",
+      "sahteCevap1": "Çin",
+      "sahteCevap2": "Güney Kore"
+    },
+    {
+      "soruMetni": "Tıpta, 'Plasebo Etkisi'nin tam tersi olan, yani zararsız bir maddenin kişide *olumsuz* etki yaratmasına ne ad verilir?",
+      "gercekCevap": "Nosebo Etkisi",
+      "sahteCevap1": "Histeri Etkisi",
+      "sahteCevap2": "Rezonans Etkisi"
+    }
+
+    
+  ]
+}
